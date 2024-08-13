@@ -1,9 +1,9 @@
 # Certifications
 Certifications
 
-  <sub>
-  ### • The Open Group Certified: OGEA-103: TOGAF® 10 Enterprise Architecture Practitioner
-  ### • Microsoft Certified: Azure Solutions Architect Expert
+
+    <sub>### • The Open Group Certified: OGEA-103: TOGAF® 10 Enterprise Architecture Practitioner  </sup>
+    <sub>### • Microsoft Certified: Azure Solutions Architect Expert  </sup>
   ### • Microsoft Certified: AZ-305: Designing Microsoft Azure Infrastructure Solutions
   ### • Microsoft Certified: AZ-104 Azure Administrator Associate
   ### • Microsoft Certified: AZ-204 Azure Developer Associate
@@ -23,5 +23,5 @@ Certifications
   ### • SE Health Certified: The Code and the AODA Certified Specialist 
   ### • SE Health Certified: Computer & Network Security Certified Specialist 
   ### • Federal Government of Canada Certified: Canadian Government Enhanced Federal Reliability Security Clearance
-  </sup>
+
 
