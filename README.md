@@ -1,10 +1,8 @@
 # Certifications
 Certifications
-
-
-    <sub>• The Open Group Certified: OGEA-103: TOGAF® 10 Enterprise Architecture Practitioner  </sup>
-    <sub>• Microsoft Certified: Azure Solutions Architect Expert  </sup>
-  ### • Microsoft Certified: AZ-305: Designing Microsoft Azure Infrastructure Solutions
+ - • The Open Group Certified: OGEA-103: TOGAF® 10 Enterprise Architecture Practitioner
+  * • Microsoft Certified: Azure Solutions Architect Expert
+ + • Microsoft Certified: AZ-305: Designing Microsoft Azure Infrastructure Solutions
   ### • Microsoft Certified: AZ-104 Azure Administrator Associate
   ### • Microsoft Certified: AZ-204 Azure Developer Associate
   ### • Microsoft Certified: DP-203 Azure Data Engineer
